@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is a proyect for the node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetoMata/NodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "Roberto Mata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BetoMata/NodeJS/issues"
+  },
+  "homepage": "https://github.com/BetoMata/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
